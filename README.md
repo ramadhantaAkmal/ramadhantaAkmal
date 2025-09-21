@@ -15,7 +15,7 @@ with a passion for building efficient and cost friendly data pipelines.
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" style="height: 45px; margin-left: 1em" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript-original" style="height: 45px; margin-left: 1em" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" alt="dart-original" style="height: 45px; margin-left: 1em" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="nodejs-original" style="height: 45px; margin-left: 1em" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain-wordmark.svg" alt="nodejs-original" style="height: 45px; margin-left: 1em" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="flutter-original" style="height: 45px; margin-left: 1em" />
 </div>
 
