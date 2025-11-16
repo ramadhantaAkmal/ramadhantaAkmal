@@ -19,9 +19,6 @@ with a passion for building efficient and cost friendly data pipelines.
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="flutter-original" style="height: 45px; margin-left: 1em" />
 </div>
 
-## ⚡ Statistics:
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ramadhantaAkmal&layout=donut&theme=merko)
-
 ## 📫 You can find me on this links:
 [<img src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=black" />](https://www.linkedin.com/in/m-akmal-r/)
 [<img src ="https://img.shields.io/badge/website-%23.svg?&style=for-the-badge&logo=www&logoColor=white%22&color=black">](https://ramadhantaakmal.github.io/portofolio/#/)
