@@ -1,9 +1,9 @@
 ### Hi, Welcome to my GitHub profile 👋
 
-I'm a Data Engineer & Flutter Enthusiast
+I'm a Data Engineer & AI Automation Enthusiast
 with a passion for building efficient and cost friendly data pipelines.
 
-🌱 I recently transitioned to a data engineering career after working as a mobile developer, you can check out my recent data engineering projects on my top repositories.
+🌱 I recently started transitioning into data engineering after working as a mobile developer, you can check out my recent data engineering projects on my top repositories.
 
 ## Tech Stack:
 <div style="margin-left: 1rem;" align="center">
